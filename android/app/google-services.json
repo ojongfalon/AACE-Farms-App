@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "152172135006",
+    "project_id": "aace-farms-cam",
+    "storage_bucket": "aace-farms-cam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152172135006:android:021c47c7eff9a742f26acf",
+        "android_client_info": {
+          "package_name": "com.aacefarms.aacefarms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152172135006-gjkvvqe35vfhk7804qrdt34lbb93vbb7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aacefarms.aacefarms",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "152172135006-7pj8o00n2h5173uen86i6frsiv0odgc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0PU0SyAXqMXPKtzi5Tw5zWj2jDrQIF3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152172135006-7pj8o00n2h5173uen86i6frsiv0odgc3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "152172135006-9kf6rino65tligc7scfqru4c0v7isv21.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aacefarms.aacefarmsadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152172135006:android:bbf038b95dbfea30f26acf",
+        "android_client_info": {
+          "package_name": "com.aacefarms.aacefarmsadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152172135006-iqc2k0fb41t2fu6p0f30vhkktmsbk9s7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aacefarms.aacefarmsadmin",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "152172135006-7pj8o00n2h5173uen86i6frsiv0odgc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0PU0SyAXqMXPKtzi5Tw5zWj2jDrQIF3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152172135006-7pj8o00n2h5173uen86i6frsiv0odgc3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "152172135006-9kf6rino65tligc7scfqru4c0v7isv21.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aacefarms.aacefarmsadmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

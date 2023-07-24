@@ -1,0 +1,3 @@
+NSLocationWhenInUseUsageDescription = "Permit AACE farms to deliver to your location";
+PermissionGroupNotification = "Allow AACE Farms to tell you when your order is ready";
+NSMicrophoneUsageDescription = "Allow AACE Farms to recognise your voice";
